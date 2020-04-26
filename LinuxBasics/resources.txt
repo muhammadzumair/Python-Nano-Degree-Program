@@ -1,0 +1,11 @@
+//Bash commands
+For Linux- https://ss64.com/bash/
+For mac- https://github.com/0nn0/terminal-mac-cheatsheet
+
+
+
+Resources
+https://www.bash.academy/
+http://www.tldp.org/LDP/Bash-Beginners-Guide/html/
+http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html
+https://regexr.com/
